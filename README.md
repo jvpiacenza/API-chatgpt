@@ -91,8 +91,7 @@ Acesse [http://127.0.0.1:5000](http://127.0.0.1:5000) no navegador.
 **Qual é a principal necessidade para conseguir utilizar a API do ChatGPT em uma aplicação?**
 
 > A principal necessidade é possuir uma **chave de API (API Key) válida**, gerada na plataforma da OpenAI, vinculada a uma conta com **créditos disponíveis** ou um plano de pagamento ativo.
->
-> Sem essa chave autenticada e sem saldo/créditos, não é possível realizar requisições aos modelos de linguagem — todas as chamadas retornarão erro de autenticação ou cota excedida.
+> Sem essa chave autenticada e sem saldo/créditos, não é possível realizar requisições aos modelos de linguagem, todas as chamadas retornarão erro de autenticação ou cota excedida.
 
 ---
 
